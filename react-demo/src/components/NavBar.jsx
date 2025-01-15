@@ -10,7 +10,7 @@ function NavBar() {
             {/* Link to my ItemList component */}
             <li><Link to='/itemlist'>ItemList</Link></li>
             {/* Link to my PokemonSearch component */}
-            <li><Link to='/pokesearch'>Pokemon Search</Link></li>
+            <li><Link to='/petsearch'>Pet Search</Link></li>
         </ul>
     </nav>
   )
